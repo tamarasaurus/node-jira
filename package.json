@@ -1,5 +1,5 @@
 {
-  "name": "jira",
+  "name": "jira-tamarasaurus",
   "version": "0.6.0",
   "description": "Wrapper for the JIRA API",
   "author": "Steven Surowiec <steven.surowiec@gmail.com>",
@@ -33,5 +33,12 @@
     "grunt-docco": "~0.1.2",
     "grunt-jasmine-node": ">=0.0.6",
     "coffee-script": "~1.4.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/steves/node-jira/issues"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "license": "ISC"
 }
